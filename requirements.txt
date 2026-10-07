@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openai
+anthropic
+google-genai
+ollama
+pydantic
+pydantic-settings
+pytest
+pytest-asyncio
+
